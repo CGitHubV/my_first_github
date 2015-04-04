@@ -15,6 +15,7 @@ local.properties
 .classpath
 .settings/
 .loadpath
+.kundismasher
 
 # External tool builders
 .externalToolBuilders/
